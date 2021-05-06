@@ -1,0 +1,4 @@
+name = "ETL"
+uuid = "2d65d161-ca6f-46e8-abd3-5c875020159d"
+authors = ["Austin Poor <45295232+a-poor@users.noreply.github.com>"]
+version = "0.1.0"
